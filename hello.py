@@ -1,1 +1,2 @@
 # openunifirst
+print("Hello, World!")
